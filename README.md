@@ -30,21 +30,21 @@ Dilation
 
 
 Random Model
-![image](https://user-images.githubusercontent.com/105545947/186965369-74a73771-5e0a-43d6-82ce-5050e3252ddd.png)
+![image](https://user-images.githubusercontent.com/105545947/186966036-f52039bf-80c0-408c-bd51-ab972c17ca90.png)
 
 
 Logistic Regression
-![image](https://user-images.githubusercontent.com/105545947/186965495-702c0742-c1a5-4a42-a821-07469b6f3f3d.png)
+![image](https://user-images.githubusercontent.com/105545947/186966003-0c56d5d7-5ba8-497a-b0af-02e155e91d7b.png)
 
 
 Linear SVM
-![image](https://user-images.githubusercontent.com/105545947/186965556-f296b411-05a8-4b43-acf8-feceec7234aa.png)
+![image](https://user-images.githubusercontent.com/105545947/186965967-50512875-2d49-4909-b2e1-b4d53e453d3f.png)
 
 
 Random Forest
-![image](https://user-images.githubusercontent.com/105545947/186965632-9ed5e06b-6f11-4b3b-af1d-3c154234889b.png)
+![image](https://user-images.githubusercontent.com/105545947/186965866-671f1a76-a2f1-4b12-b5b3-dfbaa65b99a0.png)
 
 
 XGBoost
 The test log loss is: 0.24353927472506517
-![image](https://user-images.githubusercontent.com/105545947/186965685-82c7e7a7-76dd-46d8-a6c0-d835603311f4.png)
+![image](https://user-images.githubusercontent.com/105545947/186965932-07b2b5df-5f78-4093-98e6-c8cb23a5b1e0.png)
