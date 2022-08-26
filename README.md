@@ -26,7 +26,7 @@ Erosion
 
 
 Dilation
-![image](https://user-images.githubusercontent.com/105545947/186964898-cbef4a70-e4d5-4248-b601-c97fad136736.png)
+![image](https://user-images.githubusercontent.com/105545947/186966211-1e40df26-6376-4235-afe0-41996edf5355.png)
 
 
 Random Model
